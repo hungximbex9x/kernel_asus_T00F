@@ -1,0 +1,11 @@
+#
+# Automatically generated file; DO NOT EDIT.
+# Linux/x86 3.10.20 Kernel Configuration
+#
+# CONFIG_64BIT is not set
+
+CONFIG_X86_32=y
+CONFIG_X86=y
+CONFIG_INSTRUCTION_DECODER=
+CONFIG_OUTPUT_FORMAT="elf32-i386"
+CONFIG_ARCH_DEFCONFIG="arch/x86/configs/i386_defconfig"
